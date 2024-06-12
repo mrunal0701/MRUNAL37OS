@@ -13,8 +13,8 @@ public class arraydisp
 		array[0]="my";
 		array[1]="name";
 		array[2]="is";
-		array[3]="Vedika";
-		array[4]="Joshi";
+		array[3]= "Mrunal";
+		array[4]="Hingonekar";
 		System.out.println("Original array:");
 		for(int i=0;i<array.length;i++){
 		    System.out.println("Element at index"+i+":"+array[i]);
